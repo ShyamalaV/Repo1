@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string tenant = "https://demosite1234.sharepoint.com/sites/Test";
+            string tenant = "https://demosite1234.sharepoint.com/sites/TestSite";
         }
     }
 }
